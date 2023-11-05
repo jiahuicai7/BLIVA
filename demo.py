@@ -13,6 +13,7 @@ from bliva.common.registry import registry
 from bliva.conversation.conversation import Chat, CONV_VISION, CONV_DIRECT
 
 # imports modules for registration
+# hihihiihihhhi
 
 from bliva.models import *
 from bliva.processors import *
